@@ -48,3 +48,6 @@ farenheit = float(farenheit_str)
 celcius = (farenheit - 32) * 5/9
 print("Temperature in Celcius is: "+ str(celcius))
 print(f"Temperature in Celcius is: {celcius:10.8f}")
+
+import math
+print(f"{'pi':10s}:{math.pi:10.8f}")
