@@ -6,7 +6,7 @@ This repository contains my Python exercises for class.
 
 - `hello.py` – My first Python program
 - `2nd.py` – Basic Python practice
-- `3rd.py` – Calculator using user input
+- `3rd.py` – Calculations using user input
 - `mod3.py` and `numbers.py` – Numbers, data types, and division
 
 ## Student
