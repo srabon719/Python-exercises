@@ -10,7 +10,7 @@ Touhedul Islam Srabon
 
 Dhaka City Adventure is a text-based game about improving the environment of Dhaka. The city is facing problems such as litter in public places, plastic waste in rivers, a lack of trees, and poor recycling habits.
 
-The player becomes a volunteer who wants to make Dhaka cleaner and greener. The player can visit different locations and perform environmental activities. These include cleaning a park, removing plastic from theVindREP?abat Tape? hardeveloped river, planting trees, and teaching students about recycling.
+The player becomes a volunteer who wants to make Dhaka cleaner and greener. The player can visit different locations and perform environmental activities. These include cleaning a park, removing plastic from river, planting trees, and teaching students about recycling.
 
 The game is suitable for young players because it does not contain violence or inappropriate content.
 
