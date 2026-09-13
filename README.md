@@ -39,23 +39,13 @@ The current version includes the following functionalities:
 * The `park` command allows the player to clean a park.
 * The `river` command allows the player to remove plastic waste from the Buriganga River.
 * The `garden` command allows the player to plant trees.
-* The `school` command allows the player to teach students about recycling.
+* The `street` command allows the player to teach students about recycling.
+* The `collect` command allows the player to collect iteams.
+* The `inventory` command allows the player to see collected items.
 * It displays a different result for every valid command.
 * It displays an error message when the player enters an unknown command.
 * It displays the menu again after each activity.
-* The `lopeta` command ends the game.
-
-
-
-
-
-## Files
-
-- `hello.py` – My first Python program
-- `2nd.py` – Basic Python practice
-- `3rd.py` – Calculations using user input
-- `mod3.py` and `numbers.py` – Numbers, data types, and division
-- `condition.py` and `grade.py` - Conditional statement class 4
+* The `lopeta` command ends the game
 ## Student
 
 Touhedul Islam Srabon
