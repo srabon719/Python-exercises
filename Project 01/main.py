@@ -26,7 +26,7 @@ def build_world():
       "You planted a new tree sapling. Dhaka is greener!",
   )
 
-  # Connect room exits
+  
   park.set_exit("north", garden)
   park.set_exit("south", river)
   park.set_exit("east", street)
@@ -35,7 +35,7 @@ def build_world():
   river.set_exit("north", park)
   street.set_exit("west", park)
 
-  # Distribute items
+  
   park.add_item(Item("Plastic Bottle", 0.1))
   river.add_item(Item("Discarded Net", 1.2))
   street.add_item(Item("Aluminum Can", 0.15))
@@ -59,7 +59,7 @@ def main():
     print("The game is shutting down.")
     return
 
-  # Create initial player and world objects
+  
   starting_room = build_world()
   player = Player(player_name, starting_room)
 
