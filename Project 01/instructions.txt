@@ -1,0 +1,7 @@
+GAME INSTRUCTIONS & COMMANDS:
+- move      : Travel to adjacent locations (north, south, east, west).
+- clean     : Carry out an environmental cleanup at your current spot.
+- collect   : Pick up an available item from the ground into your bag.
+- inventory : View all collected items and their total weight.
+- save      : Save your current progress to resume later.
+- lopeta    : Save progress and exit the game.
